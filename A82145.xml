@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the faithfull souldiers of the army, to all the honest people of the nation, shewing their resolution to stand by the good old cause, and maintain the liberties and privileges of the subject; formerly printed in canting language, and now re-printed with explanations in the margent, for the better information of all such as desire to look to the bottom of their deceits.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82145</idno>
+            <idno type="STC">Wing D668</idno>
+            <idno type="STC">Thomason E980_18</idno>
+            <idno type="STC">ESTC R10813</idno>
+            <idno type="EEBO-CITATION">99858890</idno>
+            <idno type="PROQUEST">99858890</idno>
+            <idno type="VID">110950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the faithfull souldiers of the army, to all the honest people of the nation, shewing their resolution to stand by the good old cause, and maintain the liberties and privileges of the subject; formerly printed in canting language, and now re-printed with explanations in the margent, for the better information of all such as desire to look to the bottom of their deceits.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed anno Dom. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 5th"; "May 5".</note>
+                  <note>Reproductions of the original in the British Library (Thomason Tracts) and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110950:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Faithfull <hi>SOVLDIERS</hi> OF THE ARMY, To all the honeſt people of the <hi>Nation,</hi> ſhewing their Reſolution to ſtand by the Good old Cauſe, And maintain the <hi>Liberties</hi> and <hi>Privi<g ref="char:EOLhyphen"/>leges</hi> of the <hi>SUBJECT;</hi>
+            </p>
+            <p>Formerly Printed in <hi>Canting Language,</hi> and now Re-printed with Explanations in the Margent, for the better information of all ſuch as deſire to look to the bottom of their <hi>DECEITS.</hi>
+            </p>
+            <q>
+               <bibl>Numb. 16.13.</bibl>
+               <p>And <hi>Korah, Dathan,</hi> and <hi>Abiram,</hi> gathered themſelves together againſt <hi>Moſes,</hi> and againſt <hi>Aaron,</hi> and ſaid unto them, You take too much upon you, ſeeing all the Congregation is holy every one of them, and the Lord is among them, wherefore then lift you up your ſelves above the Congregation of the Lord?</p>
+            </q>
+            <q>
+               <bibl>1 Sam. 10.27.</bibl>
+               <p>But the Children of <hi>Belial</hi> ſaid, How ſhall this man ſave us? and they diſ<g ref="char:EOLhyphen"/>piſed him, and brought him no preſents, but he held his peace.</p>
+            </q>
+            <q>
+               <l>To rant and mouth is not ſo neer a way,</l>
+               <l>To cheat your Brother, as by yea and nay.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1659. <add>May 5.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110950:2"/>
+            <pb n="3" facs="tcp:110950:2"/>
+            <head>A Declaration of the Faithful Souldiers of the Army, to all the honeſt people of the Nation, ſhewing their Reſolution to ſtand by the <hi>Good Old Cauſe,</hi> and maintain the Liberties and Pri<g ref="char:EOLhyphen"/>vileges of the Subject.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it hath pleaſed God, out of his gracious Providence, to manifeſt to the good people of this diſtracted Commonwealth,<note n="a" place="margin">From which the Authors of this Declaration have revol<g ref="char:EOLhyphen"/>ted.</note> his Rule and Government amongſt us; we do now ap<g ref="char:EOLhyphen"/>peal to the great God,<note n="b" place="margin">And who holds them in a chain, that they can goe no farther than he pleaſes to ſuffer them.</note> whom we muſt own as the great Commander of our Armies, and Ge<g ref="char:EOLhyphen"/>neral of our Forces, acknowledging him to be the firſt Worker amongſt us.</p>
+            <p>By many ſignal tokens it hath been made ap<g ref="char:EOLhyphen"/>parent,<note n="c" place="margin">Whilſt they ſtood to their firſt principles, and were o<g ref="char:EOLhyphen"/>bedient to their Governor.</note> that God hath owned in a moſt eſpe<g ref="char:EOLhyphen"/>cial manner the poor Souldiery of this Nation, which muſt needs ſtrike real reflections upon the Conſciences of all ſober and honeſt men,<note n="d" place="margin">That is, till they rebel<g ref="char:EOLhyphen"/>led, and no farther.</note> who have adventured thus far, and have found <hi>Jeho<g ref="char:EOLhyphen"/>vah-Jireh,</hi> God in the Mount among us all.</p>
+            <p>As God hath made and appointed us for the general<note n="e" place="margin">That is, either as a King makes uſe of his Armies to deſtroy his Enemies, or as a School-maſter his rods, to ſcourge his Scholars to make them more obedient.</note> good of the Nation, ſo we do moſt ſeriouſly, with real hearts own the<note n="f" place="margin">As they ſtile them, that is, the Quakers and Anabaptiſts.</note> Godly
+<pb n="4" facs="tcp:110950:3"/>of this Nation, and will be a Covert to them, although to the deſtruction of our lives and for<g ref="char:EOLhyphen"/>tunes, if God ſo pleaſes for the general good of them all.</p>
+            <p>As for the breaches that are amongſt us, we<note n="g" place="margin">As the Authors of them.</note> claim an intereſt in them; for the Great God, for our ſinful deſerts, in our backſliding from him<note n="h" place="margin">And in violating the many ingagements and proteſtati<g ref="char:EOLhyphen"/>ons, which they themſelves have at ſundry times made to their Governor.</note>, hath laid this viſitation upon us; and ſo we muſt own his moſt juſt dealings with us. The conſideration of which, does cauſe re<g ref="char:EOLhyphen"/>flections upon our hearts<note n="i" place="margin">Which are very good, if they were in ſincerity, which (their actions conſidered) are much to be doubted.</note> humbly to own theſe his chaſtiſements, and to conſider theſe remarkable tokens of his love: For if we con<g ref="char:EOLhyphen"/>ſider the<note n="k" place="margin">Both to God and the whole Nation in theſe diſtur<g ref="char:EOLhyphen"/>bances which they have lately made, whereupon (if God be not very mercifull) the inevitable ruine of Reli<g ref="char:EOLhyphen"/>gion and all civill Govern<g ref="char:EOLhyphen"/>ment will enſue.</note> unworthineſs of our dealings, and the<note n="l" place="margin">Which they have (to their great diſgrace) too often made, and as often broken.</note> ſpecious pretences which have gone along with us under fair gloſſes, we muſt confeſs, that what diſtractions are amongſt us<note n="m" place="margin">Are occaſioned by their unnatural rebellion.</note>, are not an<g ref="char:EOLhyphen"/>ſwerable to our juſt deſerts; But we know that the dealings of the Almighty are not to be found out; therefore we confeſs that we have found God<note n="n" place="margin">Far beyond their deſerts.</note> merciful, although we have tranſgreſſed, for with him is mercy, that he may be feared; and he hath thus dealt with us, that we might<note n="o" place="margin">But as yet there is but lit<g ref="char:EOLhyphen"/>tle probability that they do ever intend it.</note> take notice of his long ſuffering, and good<g ref="char:EOLhyphen"/>neſs to us; to his glory<note n="p" place="margin">And their ſhame and diſgrace.</note> let us aſcribe it, and with thankful hearts<note n="q" place="margin">And with renewed lives, and ſerious reſolutions of better obedience for the future.</note> return hearty praiſe for theſe great mercies received by us,</p>
+            <p>And now to come to a further<note n="r" place="margin">With as much diſſimulati<g ref="char:EOLhyphen"/>on as ever.</note> ſerious con<g ref="char:EOLhyphen"/>ſidetation of Gods good dealing with us, we do deſire to praiſe<note n="s" place="margin">They indeavour to per<g ref="char:EOLhyphen"/>ſwade the people, that the Lord is the Author of their Rebellions, who are no o<g ref="char:EOLhyphen"/>therwiſe united, than as a Company of riotous perſons, who combine together to do ſome outragious Act.</note> the Lord for his uniting of the Army with ſuch unanimity and courage, to ſtand for, and maintain the<note n="t" place="margin">That is, their own private intereſt and advantage.</note> 
+               <hi>Good old Cauſe</hi> ſo long contended for, and which the Lord<note n="u" place="margin">That is, when they kept cloſe to their firſt principles, which by their <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebellion they are now far wide of.</note> hath formerly ſo much owned,<note n="w" place="margin">Nothing more true.</note> although our back<g ref="char:EOLhyphen"/>ſlidings
+<pb n="5" facs="tcp:110950:3"/>might have given cauſe of a far greater judgement than hath yet befallen us, which we hope will be prevented by our<note n="x" place="margin">Which muſt be after ano<g ref="char:EOLhyphen"/>ther manner than they now do.</note> return, and owning our firſt Principles, with ſo much cordi<g ref="char:EOLhyphen"/>al affection as is at this time declared amongſt us, although<note n="y" place="margin">And is very probable will be far beyond their expecta<g ref="char:EOLhyphen"/>tions.</note> great oppoſition might be ex<g ref="char:EOLhyphen"/>pected: But that God that can throw down at a blaſt the loftieſt Cedars, can alſo raiſe out of the earth ſmall<note n="z" place="margin">And after make fuel of them, as he did <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar,</hi> to puniſh the diſobedience of the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael,</hi> and after puniſhed him for ſo doing.</note> ſhrubs to glorifie him, and to do his work;<note n="a" place="margin">Hereby doth plainly ap<g ref="char:EOLhyphen"/>pear what the ends and aims of theſe fellows are (which is) that all that are higher than themſelves may be thrown down, that ſo themſelves may the better be exalted.</note> which with heart and mind is ſo much deſired by the faithful Members of the Army, as is at this day experienced amongſt us.</p>
+            <p>Therefore we pray and hoped it will ſtir up the faithful of this Nation to<note n="b" place="margin">That are bound in Conſci<g ref="char:EOLhyphen"/>ence both to God and man to oppoſe them in their pre<g ref="char:EOLhyphen"/>ſent undertakings.</note> this conſideration, that although objections may be raiſed againſt, and<note n="c" place="margin">Not ſo much as they do de<g ref="char:EOLhyphen"/>ſerve.</note> aſperſions caſt upon the<note n="d" place="margin">That is, of Low and baſe birth.</note> poor deſpiſed inſtruments of this<note n="e" place="margin">In Engliſh, Rebellion.</note> Work; yet are we<note n="f" place="margin">As thieves when they joyn in a Confederacy to rob; for, <hi>ſaevis inter ſe convenit Vrſis.</hi>
+               </note> una<g ref="char:EOLhyphen"/>nimouſly reſolved to maintain our<note n="g" place="margin">Which they never intend.</note> 
+               <hi>firſt good principles,</hi> and to own the <hi>Good old</hi>
+               <note n="h" place="margin">That is ſelf exaltation.</note> 
+               <hi>Cauſe,</hi> as we have already teſtified; firſt, by our Ad<g ref="char:EOLhyphen"/>dreſſes for the rooting out of all<note n="i" place="margin">That is, ſuch as ſtood faith<g ref="char:EOLhyphen"/>ful to their firſt Principles and refuſed to joyn with them in their deſperate deſigns.</note> ſuperfluous and ill affected Members of the Army: and ſe<g ref="char:EOLhyphen"/>condly, by our real deſires and concordance with the<note n="k" place="margin">That is, <hi>Haſehigge, Vane,</hi> and others of the ſame metal.</note> faithful, known ſo to be,<note n="l" place="margin">The only naming of them is Declaration enough to ſatisfie any ſober perſon, what their crimes were for which they were turned out.</note> which were turned out without any juſt, or lawful account given therefore.</p>
+            <p>
+               <note n="m" place="margin">They take it for granted, that becauſe God doth per<g ref="char:EOLhyphen"/>mit them a while, to go on in their pernicious Courſes, therefore (of neceſſity) he muſt countenance and al<g ref="char:EOLhyphen"/>low them as good.</note> As God hath been pleaſed to inſtruct us ſo far as to begin the work, ſo we hope the Lord in his time will perfect the ſame, for the<note n="n" place="margin">Which muſt be either by their converſion or deſtruction.</note> ge<g ref="char:EOLhyphen"/>neral good and comfort of this Nation; not doubting, but the honeſt people of this Com<g ref="char:EOLhyphen"/>monwealth will take notice that we are not<note n="o" place="margin">The contrary doth very cleerly appear to all that have but one eye to ſee (except <hi>Hewſon</hi>) but <hi>Hypocrita cupit videri juſtus.</hi>
+               </note> ſelf-ſeekers, nor deſire to be ſelf-ended, but
+<pb n="6" facs="tcp:110950:4"/>conſcientious in theſe things;<note n="p" place="margin">Which if they did in reali<g ref="char:EOLhyphen"/>ty but half ſo ſeriouſly conſi<g ref="char:EOLhyphen"/>der, as they do here ſeemingly pretend, I doubt not but they would ſoon give off the courſe which they have now undertaken.</note> aſſuredly know<g ref="char:EOLhyphen"/>ing that the Lord judgeth the mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſecret thoughts, and that no practice nor thing for<g ref="char:EOLhyphen"/>med againſt God ſhall proſper, who is able to do his own work without any inſtruments at all.</p>
+            <p>
+               <note n="q" place="margin">If theſe fellows had any ſparks of Conſcience left in them, or did in the leaſt underſtand what they ſay, they would not dare to make ſuch proteſtations and invo<g ref="char:EOLhyphen"/>cations of the a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of God, their actions being ſo odious; but I fear I wrong them to ſpeak of Conſcience, to which they have bid fare<g ref="char:EOLhyphen"/>wel many years ſince.</note> Therefore with ſerious reflections upon Lord to bleſs theſe our honeſt deſires, and to our conſciences<g ref="char:punc">▪</g> we do moſt humbly implore the<note n="r" place="margin">It hath been the practice of Rebels in all ages, to cloak their wicked deſigns with the names of Religion, and the Glory of God, whoſe footſteps theſe men now fol<g ref="char:EOLhyphen"/>low.</note> go along with us in our hearty endeavours to glorifie him: And truely, ſince the Lord hath been pleaſed to ſtir up our hearts in this great work, to the glory of God be it ſpoken, we have likewiſe from the<note n="s" place="margin">That is, Quakers and Ana<g ref="char:EOLhyphen"/>baptiſts.</note> Faithful of the Nation<note n="t" place="margin">Like will to like, as the Devil ſaid to the Collier.</note> received ſo great encouragement &amp; concurrence in our deſires,<note n="u" place="margin">That is, in doing miſ<g ref="char:EOLhyphen"/>chief.</note> in one and the ſame thing, that it doth greatly encourage us. And we hope we ſhall with an unanimous courage ſhew our ſelves for<note n="w" place="margin">Or in Engliſh, for the throwing down and deſtroying of Religion.</note> our good God,<note n="x" place="margin">For their own private intereſts.</note> for the <hi>Good old Cauſe,</hi> and<note n="y" place="margin">Their fellow Traytors.</note> for the good people of this Nation; to whom we do moſt<note n="z" place="margin">As unfeignedly as they have made all the reſt of their proteſtations.</note> unfeignedly preſent theſe juſt<note n="a" place="margin">They are ſtill fixt in their reſolutions to do miſchief.</note> intendments we are fixt upon.</p>
+            <p>And we likewiſe return moſt<note n="b" place="margin">That is, full of inſincerity.</note> ſincere thanks to the<note n="c" place="margin">The Abetters in their w<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k<g ref="char:EOLhyphen"/>ed deſigns.</note> honeſt people of this Nation, eſpecial<g ref="char:EOLhyphen"/>ly to our<note n="d" place="margin">That is, Cobling Friends, as <hi>Hewſon</hi> and others.</note> Cordial Friends in this City, and the places adjacent, for their many<note n="e" place="margin">Whoever yet did any acti<g ref="char:EOLhyphen"/>on how deſperate or perniti<g ref="char:EOLhyphen"/>ous ſoever it was, that were without exhortations and encouragements from thoſe of their own opinions.</note> good exhortations, and the great encouragement we have had from them in theſe our proceedings.</p>
+            <p>And truely we hope the Lord will<note n="f" place="margin">That is, ſo far as he intends to uſe them is inſtruments to puniſh this Nation for their ſins.</note> bleſs our<note n="g" place="margin">To do miſchief.</note> real endeavours in theſe our<note n="h" place="margin">In Engliſh, unhoneſt.</note> honeſt principles; for we are not only deſirous to
+<pb n="7" facs="tcp:110950:4"/>
+               <note n="i" place="margin">In Engliſh, to rebel ag<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> their Lawful ſuperiour, who (they fear) will bring them to condign puniſhment for their offences.</note> deſtroy any Arbitrary power that ſhall oppoſe us herein, but likewiſe to be<note n="k" place="margin">That is, faithful Brethren in Iniqui<g ref="char:EOLhyphen"/>ty.</note> unanimous for a preſent applying of our ſelves to the performance of that we do declare. And we deſire to make theſe our<note n="l" place="margin">Which is their ſhame, and in the end will prove their confuſion.</note> purpoſes apparent, hoping that the <hi>good people of this Nation</hi> will with ſerious hearts<note n="m" place="margin">That is, joyn together againſt them.</note> join with us, as they have begun; and do not queſtion but thoſe to whom we have acceſs will faithfully own us, and give us incouragement in the ſame.</p>
+            <p>Theſe<note n="n" place="margin">Phariſaical-like applaud their own wayes, how repug<g ref="char:EOLhyphen"/>nant ſoever they be to the word of God.</note> honeſt Reſolutions of ours we thought fit to<note n="o" place="margin">That the World may ſee their knavery.</note> declare to the <hi>good people of this Nation,</hi> not doubting but that they will own, and ſtand by us, as long as we ſtand for the <hi>Good old Cauſe<g ref="char:punc">▪</g>
+               </hi> (<note n="p" place="margin">Which if they do expect, and ſeriouſly deſire, as they do here pretend, let them ſpeedily forſake their wicked deſigns, and unfeignedly turn to the Lord with their whole hearts, and obey the word of God which ſayeth, Let every Soul be ſubject to the higher powers, for their is no power but of God, and the powers that be, are or<g ref="char:EOLhyphen"/>dained of God: whoſoever therefore reſiſteth the power, reſiſteth the ordinance of God, and they that reſiſt ſhall receive to themſelves damnation.</note> deſiring the Lord to own us all, and to bring us to the wiſhed effects of our Spi<g ref="char:EOLhyphen"/>ritual and Temporal deſires, for the publick good of the Common-wealth; and in the end to eter<g ref="char:EOLhyphen"/>nallize us in the bleſſed union and fellowſhip of himſelf in glory, is the hearty prayer and deſire of all the Honeſt and Faithful Souldiers in the Army.</p>
+            <epigraph>
+               <q>
+                  <l>The Devil oft for his ſervants does his beſt;</l>
+                  <l>But now ſince Mortals have the Fiends poſſeſt,</l>
+                  <l>Seek Hell no more, but with worſe men compact,</l>
+                  <l>Wouldſt thou to life unheard-of miſchief act.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
